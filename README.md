@@ -1,10 +1,10 @@
 1. Pre-requisite softwares to be installed on system :
 
-Go
-Postman
-Visual studio code/IntelliJ/GoLand
-Docker
-Postico
+Go</br>
+Postman</br>
+Visual studio code/IntelliJ/GoLand</br>
+Docker</br>
+Postico</br>
 
 2. Clone the project into your go working directory.
 
